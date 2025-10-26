@@ -18,3 +18,4 @@ Dataset: Iris dataset from scikit-learn (built-in dataset)
 ## Libraries Used
 - numpy  
 - scikit-learn
+- matplotlib
